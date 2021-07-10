@@ -9,6 +9,8 @@ On windows I used the Advanced Renamer tool, but on MacOS, I can't find an equiv
 
 * Changes periods to spaces
 
+* Similar small formatting changes to make the process of renaming by hand easier.
+
 # What I Learned:
 
 * Regex is a headache, but incredibly useful.
